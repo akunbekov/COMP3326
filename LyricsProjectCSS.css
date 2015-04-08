@@ -1,0 +1,44 @@
+body{
+background-color: #4172b3;
+
+}
+#header{
+	color: white;
+	text-align:center;
+}
+a{ 									/*Add comment here */
+    color:White;
+    background-color:transparent;
+    text-decoration:none;
+}
+a:hover {
+    color:#ff0000;
+    background-color:transparent;
+    text-decoration:underline;
+}
+#letters{
+	text-align:center;
+	padding: 5px
+	}
+#section {
+
+	border-radius: 25px;
+    width:700px;
+	height:auto;
+	min-height:500px;
+    float:left;
+    padding:20px;
+	background-color:#a0b8d9;
+	margin-left: 300px;
+	}
+.section{
+	border-radius: 25px;
+    width:700px;
+	height:auto;
+	min-height:500px;
+    float:left;
+    padding:20px;
+	background-color:#a0b8d9;
+	margin-left: 300px;
+	text-align:center;
+}
